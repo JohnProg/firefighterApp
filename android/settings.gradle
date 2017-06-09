@@ -1,0 +1,3 @@
+rootProject.name = 'firefighterApp'
+
+include ':app'
